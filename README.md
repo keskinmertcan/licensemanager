@@ -68,11 +68,6 @@ License Manager is a desktop application built using Python and Tkinter for mana
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any queries, reach out to:
-- **Mertcan Keskin** - Software Developer at Eray Teknoloji A.Ş.
-
 ## Contributing
 
 Feel free to submit pull requests or raise issues if you would like to contribute to the project. Any help is welcome!
