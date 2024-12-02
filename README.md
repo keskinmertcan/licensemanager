@@ -1,7 +1,7 @@
 
-# Boylam Mobile Report License Manager
+# License Manager
 
-Boylam Mobile Report License Manager is a desktop application built using Python and Tkinter for managing users, servers, and license information. It is intended to help administrators manage licenses and servers in a convenient GUI.
+License Manager is a desktop application built using Python and Tkinter for managing users, servers, and license information. It is intended to help administrators manage licenses and servers in a convenient GUI.
 
 ## Features
 
@@ -22,7 +22,7 @@ Boylam Mobile Report License Manager is a desktop application built using Python
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/boylam-license-manager.git
+   git clone https://github.com/keskinmertcan/license-manager.git
    ```
 2. Install the required Python libraries:
    ```bash
@@ -38,7 +38,7 @@ Boylam Mobile Report License Manager is a desktop application built using Python
    ```
 4. Run the application:
    ```bash
-   python main.py
+   python licensemanager.py.py
    ```
 
 ## Usage
@@ -79,7 +79,7 @@ Feel free to submit pull requests or raise issues if you would like to contribut
 
 ---
 
-This project is a collaborative effort, and its goal is to provide a reliable solution for managing licenses and servers, especially for Boylam Mobile Reports.
+This project is a collaborative effort, and its goal is to provide a reliable solution for managing licenses and servers, especially for  Mobile Reports.
 
 ### Notes
 
